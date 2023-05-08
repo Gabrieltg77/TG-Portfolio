@@ -2,119 +2,123 @@
 
 ## **Introdução**
 
-Meu primeiro contato com programação foi aos 15 anos, no técnico realizado na Etec de São José dos Campos, onde aprendi diversas linguagens, como: java, c#, java script, php e sql, além de html e CSS, realizei o TCC em c# e utilizando a plataforma unity, onde foi criado um jogo educativo, utilizando uma pirâmide de holograma. Participei de 3 maratonas de programação e 2 OBIs, entre o ensino técnico e a faculdade. Faço faculdade na Fatec São José dos Campos, no curso de análise e desenvolvimento de sistemas. Tenho experiência de 1 ano e nove meses de estágio de desenvolvimento na empresa Quero Educação.
+Tive meu primeiro contato com programação aos 15 anos, durante o curso técnico na Etec de São José dos Campos. Lá aprendi diversas linguagens, como Java, C#, JavaScript, PHP e SQL, além de HTML e CSS. Meu TCC foi desenvolvido em C# e na plataforma Unity, onde criei um jogo educativo utilizando uma pirâmide de holograma. Participei de 4 maratonas de programação e 2 OBIs, entre o ensino técnico e a faculdade. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos e tenho 1 ano e 9 meses de experiência em estágio de desenvolvimento na empresa Quero Educação.
 
 ## **Meus Projetos**
 
 ### **Em 2020-1**
-O projeto desenvolvido teve como objetivo de solucionar um problema real através do uso um aplicativo android e um hardware de auxiliar, aplicado pela Fatec de São josé dos Campos.
+O projeto desenvolvido tinha como objetivo solucionar um problema real por meio de um aplicativo para Android que fosse compatível com um hardware auxiliar, aplicado pela Fatec de São José dos Campos.
 
 **Problema**
-Uma empresa utiliza travas automáticas com níveis de acesso e quer otimizar o uso dessas travas, aumentando o nível de segurança. Para isso, é necessário o monitoramento de quantidade de usos dessas travas, e por quem estão sendo utilizadas. Outro ponto para otimização do uso dessas travas é diminuir as ocorrências de perda de acesso por ausência de chaves magnéticas.
+Uma empresa utiliza travas automáticas com níveis de acesso e deseja otimizar o uso dessas travas, aumentando a segurança. Para isso, é necessário monitorar a quantidade de vezes que essas travas são usadas e quem as utiliza. Outro ponto a ser otimizado é a ocorrência de perda de acesso devido à ausência de chaves magnéticas.
 
 **Solução**
-Com base nesse cenário, desenvolvemos um aplicativo que permite o acesso do usuário por meio de um aplicativo, substituindo o uso de chaves magnéticas e assim, diminuindo o problema de falta de acesso por de perda do objeto, pelo fato de ser menos provável a perda de um celular. O aplicativo além de facilitar o acesso, armazena os dados de quem e quando foi acessado as travas de segurança, esses dados são coletados para o monitoramento de entradas e saídas, dessa forma, otimizando a segurança da empresa.
-
-Devido a pandemia que teve início durante a realização do curso, a integração do hardware com o software ficou apenas na parte teorica.
+Com base nesse cenário, desenvolvemos um aplicativo que permite o acesso do usuário por meio de um aplicativo, substituindo o uso de chaves magnéticas e assim, diminuindo o problema de falta de acesso devido à perda do objeto, já que é menos provável que uma pessoa perca seu celular. O aplicativo, além de facilitar o acesso, armazena os dados de quem e quando as travas de segurança foram acessadas. Esses dados são coletados para o monitoramento de entradas e saídas, otimizando a segurança da empresa.
 
 #### **Tecnologias Utilizadas**
-Programação em blocos utilizando MIT AppInventor 2, site de criação de aplicativos android de forma simplificada devido a utilização de programação em blocos e componentes visuais que eram colocados no frame sem a utilização de código, apenas com seleção dos componentes, de forma gratuita.
+Programação em blocos utilizando MIT AppInventor 2, um site que permite criar aplicativos Android de forma simplificada, devido à utilização de programação em blocos e componentes visuais que eram colocados no frame sem a utilização de código. O serviço é gratuito.
 
 #### **Contribuições Pessoais**
-Realizei grande parte da programação do aplicativo, desde a parte visual quanto as lógicas aplicadas, como o scan do QR code e a verificação se o usuário tinha ou não permissão e a tela de sucesso ou falha em caso de tentativa de acionar a trava.
+Fui responsável por grande parte da programação do aplicativo, desde a parte visual até as lógicas aplicadas, como o scan do QR code e a verificação se o usuário tinha ou não permissão, bem como a tela de sucesso ou falha em caso de tentativa de acionar a trava.
 
 #### **Hard Skills**
-Programação em blocos - Sei fazer com autonomia.
+Programação em Bloco - Sou capaz de programar em blocos com autonomia.
 
 
 #### **Soft Skills**
-Trabalhar com metodologia scrum, dividir tarefas e acompanhar resultados de parceiros, organização, planejamento para ter tempo ágil para as entregas no prazo, comunicação e desenvolver soluções em conjunto.
+Aprendi e utilizei a metodologia Scrum em trabalhos em equipe, de forma a dividir tarefas e acompanhar o progresso dos meus colegas, demonstrando habilidade em organização e gestão de tempo para garantir entregas no prazo.
 
 ### **Em 2020-2**
-O projeto proposto pela empresa Iacit, se consiste em desenvolver um software em java para o gerenciamento de jornada de motoristas durante a realização de entregas.
+Como parte do projeto proposto pela Iacit, foi desenvolvido um software em Java para gerenciar a jornada de motoristas durante entregas, com o objetivo de aumentar a eficiência e a segurança do processo.
+
+**Empresa**
+A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um dos principais polos tecnológicos do Brasil e do mundo.
 
 **Problema**
-A empresa sofre com a falta de monitoramento nas entregas e com adversidades desconhecidas que ocorrem durante o percurso.
+A falta de monitoramento adequado das entregas e a ocorrência de problemas imprevistos durante o percurso têm afetado negativamente a empresa.
 
 **Solução**
-Devido ao problema apresentado, o time desenvolveu um software que cadastra veículos e motoristas, disponibilizando para o administrador atribuir uma entrega, relacionando eles e acompanhando a localização, podendo receber mensagens do motorista sobre possíveis adversidades.
+Para lidar com esse problema, nossa equipe desenvolveu um software que permite cadastrar veículos e motoristas, além de atribuir entregas e acompanhar a localização em tempo real. Também incluímos a funcionalidade de mensagens para que os motoristas possam reportar possíveis adversidades durante o percurso.
 
 [![Watch the video](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png)](https://drive.google.com/file/d/1SGyTxG4Z9723u_FH5SWndtdmvuLje1AI/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
 #### **Tecnologias Utilizadas**
-Java - Linguagem desktop utilizando orientação a objeto.
-Hibernate - Mapeamento objeto relacional do Java.
-PostgreSql - Software de gerenciamento de banco de dados utilizando sql.
-Figma - Ferramenta de prototipação de telas.
+Java: Linguagem de programação orientada a objetos utilizada para desenvolvimento de aplicações desktop.
+Hibernate: Framework que permite o mapeamento objeto-relacional em aplicações Java, facilitando o acesso e manipulação de dados em bancos de dados relacionais.
+PostgreSQL: Sistema de gerenciamento de banco de dados relacional que utiliza SQL, amplamente utilizado em aplicações de software.
+Figma: Ferramenta de prototipação de interfaces gráficas que permite a criação e colaboração em tempo real entre equipes de design e desenvolvimento.
 
 #### **Contribuições Pessoais**
-Realizei a construção do mapeamento dos campos do banco de dados para as classes e controllers do Java, utilizando o hibernate.
-Realizei o crud dos veículos e parte do crud dos motoristas.
+Utilizando o Hibernate, fiz o mapeamento dos campos do banco de dados para as classes e controladores do Java, e também implementei as operações CRUD para a entidade de veículos e parte das operações CRUD para a entidade de motoristas.
 
 #### **Hard Skills**
 Java, Orientação a objeto - Sei fazer com autonomia.
-Hibernate, ORM - Sei fazer com autonomia.
-PostgreSql - Sei fazer com autonomia.
-Wireframes - Sei fazer com autonomia.
+Hibernate, ORM - Durante o projeto, tive meu primeiro contato com o Hibernate e com o ORM, e aprendi muito sobre como essas tecnologias podem facilitar o trabalho de mapeamento objeto-relacional no desenvolvimento de software. Agora, posso utilizar essas tecnologias com autonomia e eficiência. 
+PostgreSql - No projeto, pude aplicar meus conhecimentos prévios em PostgreSQL para trabalhar com autonomia nessa tecnologia. O exercício realizado também me permitiu consolidar esses conhecimentos e aprender novas técnicas e práticas.
+Wireframes - Depois de fazer um mini curso sobre o Figma, aprendi a criar wireframes com autonomia utilizando essa ferramenta. Mesmo sendo meu primeiro contato com a tecnologia, consegui aproveitar bem o curso e aprendi bastante
 
 
 #### **Soft Skills**
-Organização de projeto, trabalhar com prazos, lidar com cliente, 
-dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de decisões.
+Durante este projeto, desenvolvi e aprimorei diversas habilidades comportamentais, tais como organização de projetos, gestão de prazos, atendimento ao cliente, divisão de tarefas, colaboração com os colegas e tomada de decisões. Estas habilidades foram essenciais para o sucesso do projeto e me permitiram trabalhar de forma produtiva e eficiente.
 
 ### **Em 2021-1**
-O projeto proposto pela empresa Ness, se consiste em desenvolver uma plataforma de ensino (LMS) para auxiliar na aplicação de cursos e treinamentos EaD, fortificado pela pandemia da corona vírus em 2021.
+A empresa Ness propôs um projeto de grande relevância em tempos de pandemia: a criação de uma plataforma de ensino (LMS) para auxiliar na aplicação de cursos e treinamentos EaD.
+
+**Empresa**
+A NESS é uma empresa brasileira, fundada em 1991, e com sede no parque tecnológico de São José dos Campos (SP), em 2019 a NESS se dividiu em um spin-off denominado de NESS Health com foco na área da saúde e posteriormente conhecido como IONIC Health.
+
 
 **Problema**
-Empresas e profissionais que realizavam treinamentos e cursos presencialmente tiveram a necessidade de aplicação EaD, devido a pandemia da corona vírus.
+Com a pandemia da COVID-19, empresas e profissionais que antes ofereciam treinamentos e cursos presenciais tiveram que se adaptar rapidamente à modalidade EaD.
 
 **Solução**
-A solução desenvolvida pela equipe foi criar uma plataforma que unificasse as aulas síncronas e assíncronas, com contato facilitado do aplicador com o usuário da plataforma.
+A equipe desenvolveu uma plataforma que integra aulas síncronas e assíncronas, com o objetivo de oferecer uma experiência completa de aprendizado remoto e facilitar a comunicação entre aplicadores e usuários.
 
-Devido ao tamanho do projeto, o escopo realizado ficou limitado a:
-disponibilização de conteúdos disversos pelo professor cadastrado;
-Inscrição de alunos nos cursos/treinamentos que estão cadastrados;
-Disponibilização do link do meet para aulas assíncronas pelo professor;
-comentários e classificação de cursos pelos alunos;
+Devido à complexidade do projeto, foi necessário delimitar o escopo e as funcionalidades desenvolvidas ficaram restritas a:
+- Cadastro de conteúdos diversos pelos professores;
+- Inscrição dos alunos nos cursos e treinamentos disponíveis;
+- Disponibilização do link do Meet para aulas síncronas pelos professores;
+- Sistema de comentários e classificação de cursos pelos alunos.
 
 [![Watch the video](https://media.discordapp.net/attachments/524268092914663424/970877530682830848/unknown.png?width=1025&height=482)](https://user-images.githubusercontent.com/62018632/120943019-cf7efc80-c702-11eb-97b8-9eb7433cda8e.mp4)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Plataforma-de-Ensino---Time-1)
 
 #### **Tecnologias Utilizadas**
-Java - Linguagem desktop utilizando orientação a objeto para o back-end.
-React - Framework java script para o front-end.
-Css - para a formatação da folha de estilo das páginas do front-end.
-PostgreSQL - Software de gerenciamento de banco de dados utilizando sql.
-Figma - Ferramenta de prototipação de telas.
-Spring Boot - para a construção e inicialização do projeto java.
-Github - versionamento de projeto utilizando git.
+Java: linguagem de programação orientada a objetos utilizada para desenvolvimento do back-end do projeto.
+React: framework JavaScript utilizado para o desenvolvimento do front-end do projeto.
+CSS: linguagem de estilos utilizada para a formatação e apresentação visual das páginas do front-end.
+PostgreSQL: sistema de gerenciamento de banco de dados relacional utilizado no armazenamento dos dados do projeto.
+Figma: ferramenta de design de interface do usuário utilizada para criar e prototipar as telas do projeto.
+Spring Boot: framework Java utilizado para a construção e inicialização do projeto back-end.
+Github: plataforma de hospedagem e versionamento de código-fonte utilizando o sistema de controle de versão Git.
 
 #### **Contribuições Pessoais**
-Criei a tela de login pelo front-end, página principal e aba de comentários. Ajudei com parte do back-end crud. Ajudei na criação das tabelas do banco de dados.
+No projeto, fui responsável por desenvolver a tela de login e a página principal do front-end, além de contribuir com a implementação da aba de comentários. Também participei do desenvolvimento do back-end, em especial na implementação de funcionalidades CRUD, e contribuí para a criação das tabelas no banco de dados.
 
 #### **Hard Skills**
 Java, Orientação a objeto - Sei fazer com autonomia.
-Css - Sei fazer com autonomia.
 PostgreSql - Sei fazer com autonomia.
 Wireframes - Sei fazer com autonomia.
-React - Sei fazer com autonomia.
-Github - Sei fazer com autonomia.
+React: Possuo autonomia para desenvolver utilizando o framework, mesmo sendo meu primeiro contato com o mesmo. Durante o processo, realizei diversas atividades e adquiri muito conhecimento.
+Github: Tenho conhecimento autônomo sobre o sistema de versionamento, incluindo o uso de branchs para agilizar o trabalho em equipe em diferentes partes do código de maneira eficiente. Foi a minha primeira experiência com versionamento em equipe, utilizando a ferramenta Github em sprints, o que possibilitou a colaboração de várias pessoas simultaneamente no projeto de forma eficiente.
 
 
 #### **Soft Skills**
-Organização e versionamento de projeto, trabalhar com prazos, lidar com cliente, 
-dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de decisões.
+Durante o projeto, pude demonstrar minhas habilidades em organização e versionamento do projeto, cumprindo prazos e estabelecendo uma boa comunicação com o cliente. Além disso, fui capaz de dividir tarefas e oferecer ajuda aos parceiros quando necessário, tomando decisões importantes em momentos críticos.
 
 ### **Em 2021-2**
-O projeto proposto pela empresa Embraer, se consiste em gerenciar documentos, desde a integridade das informações, quanto gerar documentos novos.
+O projeto proposto pela empresa Embraer consiste em desenvolver um sistema de gerenciamento de documentos que abrange desde a integridade das informações até a geração de novos documentos.
+
+**Empresa**
+A Embraer é uma empresa de aviação sendo a terceira maior fabricante de jatos comerciais do mundo, foi criada em 1969 com apoio do governo nacional do Brasil. 
 
 **Problema**
-A empresa parceira utilizava de um arquivo excel para fazer a integridade das informações dos documentos, que poderiam ficar inconsistentes, além do trabalho operacional de atualizar os documentos.
+A empresa parceira anteriormente utilizava um arquivo excel para manter a integridade das informações dos documentos, o que podia resultar em inconsistências, além de demandar muito trabalho operacional para manter os documentos atualizados.
 
  **Solução**
-Foi desenvolvido uma plataforma web, onde o arquiro excel (codelist), poderia ser importado e assim o gerenciamento de novas linhas do arquivo, quanto da integridade das informações e a criação dos documentos seriam feitas de forma automatizadas.
+Foi desenvolvida uma plataforma web que permitia a importação do arquivo Excel (codelist), possibilitando a automatização do gerenciamento de novas linhas do arquivo, garantindo a integridade das informações e a criação de novos documentos de forma mais eficiente.
 
 [![Watch the video](https://user-images.githubusercontent.com/62018632/136726488-b05ca30e-b1ea-434b-a4d2-6776f9a7921e.mp4) <br/>
 
@@ -133,7 +137,7 @@ Foi desenvolvido uma plataforma web, onde o arquiro excel (codelist), poderia se
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br>
 
 #### **Contribuições Pessoais**
-Realizei a estruturação de pastas do front e comandei a time de front-end, com tasks majoritariamente utilizando ReactJs e pequenas com Nodejs.
+Eu realizei a estruturação das pastas no front-end e liderei a equipe de desenvolvedores, utilizando principalmente ReactJS e algumas vezes NodeJS para concluir as tarefas. Além disso, assumi o papel de Product Owner, atuando como intermediário entre a equipe e o cliente.
 
 #### **Hard Skills**
 React, javascript - Sei fazer com autonomia.
@@ -143,17 +147,17 @@ Wireframes - Sei fazer com autonomia.
 
 
 #### **Soft Skills**
-Organizar e orientar membros do time em partes técnicas e de estrutura do projeto.
-Metodologia ágil. 
+Aprimorei minhas habilidades de liderança ao organizar e orientar os membros da equipe em aspectos técnicos e estruturais do projeto. Tive a oportunidade de assumir o papel de P.O e lidar diretamente com o cliente, o que me permitiu desenvolver minhas habilidades de comunicação e visualização do produto final.
 
 ### **Em 2022-1**
-A empresa Embraer propôs um projeto onde deveríamos criar um aplicativo mobile onde teríamos a visualização de FOLs (procedimento para falhas).
+A Embraer propôs um projeto de desenvolvimento de um aplicativo mobile que permitiria a visualização de FOLs (procedimentos para falhas) de forma acessível e simplificada.
 
 **Problema**
-A empresa parceira precisa notificar os motoristas que compraram seus veículos, com procedimentos padrões em casos de possíveis falhas.
+A empresa parceira precisa de uma maneira ágil e eficiente para notificar os proprietários de veículos sobre procedimentos padrões em casos de possíveis falhas, a fim de evitar problemas.
 
  **Solução**
-Foi desenvolvido um aplicativo mobile que facilita a notificação dos motoristas, toda vez que for emitida uma FOLs para um veículo que o motorista possuí, é enviado uma notificação no celular do motorista cadastrado no aplicativo.
+Foi desenvolvido um aplicativo mobile que simplifica a comunicação com os motoristas: sempre que uma FOL for emitida para um veículo cadastrado no aplicativo, o motorista correspondente receberá uma notificação instantânea em seu celular.
+
 ![Watch the video](https://user-images.githubusercontent.com/62018632/163511036-9d59f5da-16ba-4b91-8cce-a8a7a83cdcaf.mp4)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts)
 
@@ -173,28 +177,30 @@ Foi desenvolvido um aplicativo mobile que facilita a notificação dos motorista
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
 
 #### **Contribuições Pessoais**
-Realizei a integração com o back-end no react-native com o front-end, a tela de login, pesquisa por palavra chave, gráfico de horas visualizadas no react web e ajudei nas demais partes, como visualização de pdf e notificação no celular.
+Realizei a integração entre o back-end e o front-end em React Native, implementando a tela de login, pesquisa por palavra-chave, gráfico de horas visualizadas no React Web, além de auxiliar em outras funcionalidades como a visualização de PDF e notificação no celular.
 
 #### **Hard Skills**
-React, javascript - Sei fazer com autonomia.
-React-native, javascript - Sei fazer com autonomia.
-Node, typescript - Sei fazer.
-MongoDB - Sei fazer com ajuda.
-Wireframes - Sei fazer com autonomia.
+React, javascript - Possuo habilidade autônoma no desenvolvimento utilizando essas tecnologias.
+React-native, javascript - Possuo habilidade autônoma no desenvolvimento utilizando React Native, devido à sua semelhança com React, mas aprendi suas particularidades durante o processo.
+Node, typescript - Possuo habilidade para desenvolver as tarefas esperadas no projeto sem muitas dificuldades.
+MongoDB - Possuo habilidade com o MongoDB, mas ainda preciso de alguma ajuda para aprofundar meus conhecimentos.
+Wireframes - Sou capaz de criar wireframes com autonomia.
 
 
 #### **Soft Skills**
-Organizar e orientar membros do time em partes técnicas e de estrutura do projeto.
-Metodologia ágil. 
+Desenvolvi habilidades de liderança ao organizar e orientar a equipe em questões técnicas e estruturais do projeto, aplicando metodologias ágeis para otimizar o processo de desenvolvimento e garantir que as entregas fossem realizadas dentro dos prazos estipulados.
 
 ### **Em 2022-2**
-O projeto proposto pela empresa Visiona se consiste em desenvolver uma inteligencia artificial para reconhecer o numero de vagens de uma planta por meio de uma foto. 
+O projeto proposto pela empresa Visiona consiste em desenvolver uma inteligência artificial capaz de reconhecer o número de vagens de uma planta a partir de uma foto.
+
+**Empresa**
+A Visiona Tecnologia Espacial é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais, fundada em 2012.
 
 **Problema**
-um projeto anterior apresentado pela empresa tinha uma limitação, a quantidade de vagens e grãos de soja teriam que ser colocadas manualmente, porém não era viavél ao usuário contar todas as vagens manualmente.
+A empresa anteriormente apresentou um projeto que apresentava limitações, uma vez que exigia que a quantidade de vagens e grãos de soja fosse inserida manualmente, o que se mostrou inviável, já que contar manualmente cada vagem seria uma tarefa difícil e demorada para o usuário.
 
  **Solução**
-Foi desenvolvido uma inteligencia artificial para fazer essa contagem automaticamente do número de vagens e estimar a quantidade de grãos.
+Uma inteligência artificial foi desenvolvida para realizar a contagem automática do número de vagens em uma foto e, a partir disso, estimar a quantidade de grãos presentes no processo, eliminando a necessidade de contagem manual e tornando o processo mais eficiente.
 
 ![Watch the video](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
@@ -213,29 +219,24 @@ Foi desenvolvido uma inteligencia artificial para fazer essa contagem automatica
 <img alt="Detectron2" src="https://camo.githubusercontent.com/c17b7cba75b028fa64fce5883eeb67afdc0c1961b169899fb09b15ef53d0f12d/68747470733a2f2f646c2e666261697075626c696366696c65732e636f6d2f646574656374726f6e322f446574656374726f6e322d4c6f676f2d486f727a2e706e67" width="80"/><br>
 
 #### **Contribuições Pessoais**
-Realizei a integração da inteligencia artificial com o projeto antigo, além de telas e melhorias na IA.
+Eu integrei a inteligência artificial desenvolvida ao projeto antigo, além de contribuir com melhorias nas telas e na própria IA. Também auxiliei no processo de treinamento da IA, realizando marcações adequadas para um melhor desempenho da mesma.
 
 #### **Hard Skills**
 React-native, javascript - Sei fazer com autonomia.
-Detectron2 - 
+Tive meu primeiro contato com o Detectron2 e consegui utilizá-lo com ajuda para solucionar alguns problemas encontrados durante o desenvolvimento, mas ainda tenho muito a aprender para utilizar essa ferramenta com mais fluidez.
 Node, typescript - Sei fazer.
-MongoDB - Sei fazer com ajuda.
-Wireframes - Sei fazer com autonomia.
 
 
 #### **Soft Skills**
-Organizar e orientar membros do time em partes técnicas e de estrutura do projeto.
-Metodologia ágil. 
+Desenvolvi habilidades de liderança ao organizar e orientar a equipe em questões técnicas e estruturais do projeto, aplicando metodologias ágeis para otimizar o processo de desenvolvimento e garantir que as entregas fossem realizadas dentro dos prazos estipulados.
 
 
 ### **Meus Principais Conhecimentos**
-Desenvolvimento web com React, React-native, Java web, Css, bootstrap e Javascript.
-Desenvolvimento de backend com Java, C#, Typescript, nodeJs, Ruby on rails, elixir, NestJs, php e Python.
-Paradigmas de orientação a objeto e funcional.
-Utilização de arquitetura de micro serviços, mapeamento objeto relacional com: Mongoose, typeORM e hibernate.
-Criação de testes unitários com JestJs. Banco de dados relacional e suas formas normais com SGBDs: PostgreSql e Mysql.
-Banco de dados não relacional com MongoDB. Search Engine com: Algolia e Elastic Search.
-Uso AWS e kubernets e escalabilidade de Pods. Dockerização de projetos e builds.
+Tenho experiência no desenvolvimento web utilizando diversas ferramentas e tecnologias como React, React-native, Java web, CSS, Bootstrap e JavaScript. Além disso, também tenho conhecimento no desenvolvimento de backend com linguagens como Java, C#, TypeScript, Node.js, Ruby on Rails, Elixir, Nest.js, PHP e Python, e sou familiarizado com os paradigmas de orientação a objetos e funcional.
+
+Utilizo arquitetura de micro serviços e tenho habilidade no mapeamento objeto relacional com ferramentas como Mongoose, TypeORM e Hibernate. Também tenho experiência na criação de testes unitários com Jest.js, e conhecimento em bancos de dados relacionais e suas formas normais, trabalhando com SGBDs como PostgreSQL e MySQL, além de bancos de dados não relacionais, como o MongoDB. Tenho experiência na utilização de Search Engines como Algolia e Elastic Search.
+
+No que diz respeito a infraestrutura, sou familiarizado com o uso de AWS e Kubernetes, além de ter conhecimento em escalabilidade de pods. Também tenho experiência em dockerização de projetos e builds.
 
 
 ## **Contatos**
