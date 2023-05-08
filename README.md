@@ -10,9 +10,11 @@ Tive meu primeiro contato com programação aos 15 anos, durante o curso técnic
 O projeto desenvolvido tinha como objetivo solucionar um problema real por meio de um aplicativo para Android que fosse compatível com um hardware auxiliar, aplicado pela Fatec de São José dos Campos.
 
 **Problema**
+
 Uma empresa utiliza travas automáticas com níveis de acesso e deseja otimizar o uso dessas travas, aumentando a segurança. Para isso, é necessário monitorar a quantidade de vezes que essas travas são usadas e quem as utiliza. Outro ponto a ser otimizado é a ocorrência de perda de acesso devido à ausência de chaves magnéticas.
 
 **Solução**
+
 Com base nesse cenário, desenvolvemos um aplicativo que permite o acesso do usuário por meio de um aplicativo, substituindo o uso de chaves magnéticas e assim, diminuindo o problema de falta de acesso devido à perda do objeto, já que é menos provável que uma pessoa perca seu celular. O aplicativo, além de facilitar o acesso, armazena os dados de quem e quando as travas de segurança foram acessadas. Esses dados são coletados para o monitoramento de entradas e saídas, otimizando a segurança da empresa.
 
 #### **Tecnologias Utilizadas**
@@ -32,15 +34,18 @@ Aprendi e utilizei a metodologia Scrum em trabalhos em equipe, de forma a dividi
 Como parte do projeto proposto pela Iacit, foi desenvolvido um software em Java para gerenciar a jornada de motoristas durante entregas, com o objetivo de aumentar a eficiência e a segurança do processo.
 
 **Empresa**
+
 A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um dos principais polos tecnológicos do Brasil e do mundo.
 
 **Problema**
+
 A falta de monitoramento adequado das entregas e a ocorrência de problemas imprevistos durante o percurso têm afetado negativamente a empresa.
 
 **Solução**
+
 Para lidar com esse problema, nossa equipe desenvolveu um software que permite cadastrar veículos e motoristas, além de atribuir entregas e acompanhar a localização em tempo real. Também incluímos a funcionalidade de mensagens para que os motoristas possam reportar possíveis adversidades durante o percurso.
 
-[![Watch the video](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png)](https://drive.google.com/file/d/1SGyTxG4Z9723u_FH5SWndtdmvuLje1AI/view?usp=sharing)
+[![Watch the video](https://media.discordapp.net/attachments/524268092914663424/1104977040546996264/image.png?width=1223&height=677)](https://drive.google.com/file/d/1SGyTxG4Z9723u_FH5SWndtdmvuLje1AI/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
 #### **Tecnologias Utilizadas**
@@ -66,13 +71,16 @@ Durante este projeto, desenvolvi e aprimorei diversas habilidades comportamentai
 A empresa Ness propôs um projeto de grande relevância em tempos de pandemia: a criação de uma plataforma de ensino (LMS) para auxiliar na aplicação de cursos e treinamentos EaD.
 
 **Empresa**
+
 A NESS é uma empresa brasileira, fundada em 1991, e com sede no parque tecnológico de São José dos Campos (SP), em 2019 a NESS se dividiu em um spin-off denominado de NESS Health com foco na área da saúde e posteriormente conhecido como IONIC Health.
 
 
 **Problema**
+
 Com a pandemia da COVID-19, empresas e profissionais que antes ofereciam treinamentos e cursos presenciais tiveram que se adaptar rapidamente à modalidade EaD.
 
 **Solução**
+
 A equipe desenvolveu uma plataforma que integra aulas síncronas e assíncronas, com o objetivo de oferecer uma experiência completa de aprendizado remoto e facilitar a comunicação entre aplicadores e usuários.
 
 Devido à complexidade do projeto, foi necessário delimitar o escopo e as funcionalidades desenvolvidas ficaram restritas a:
@@ -112,15 +120,18 @@ Durante o projeto, pude demonstrar minhas habilidades em organização e version
 O projeto proposto pela empresa Embraer consiste em desenvolver um sistema de gerenciamento de documentos que abrange desde a integridade das informações até a geração de novos documentos.
 
 **Empresa**
+
 A Embraer é uma empresa de aviação sendo a terceira maior fabricante de jatos comerciais do mundo, foi criada em 1969 com apoio do governo nacional do Brasil. 
 
 **Problema**
+
 A empresa parceira anteriormente utilizava um arquivo excel para manter a integridade das informações dos documentos, o que podia resultar em inconsistências, além de demandar muito trabalho operacional para manter os documentos atualizados.
 
  **Solução**
+ 
 Foi desenvolvida uma plataforma web que permitia a importação do arquivo Excel (codelist), possibilitando a automatização do gerenciamento de novas linhas do arquivo, garantindo a integridade das informações e a criação de novos documentos de forma mais eficiente.
 
-[![Watch the video](https://user-images.githubusercontent.com/62018632/136726488-b05ca30e-b1ea-434b-a4d2-6776f9a7921e.mp4) <br/>
+[![Watch the video](https://media.discordapp.net/attachments/524268092914663424/970877530682830848/unknown.png?width=1025&height=482)](https://user-images.githubusercontent.com/62018632/136726488-b05ca30e-b1ea-434b-a4d2-6776f9a7921e.mp4)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Personaliza-o-de-Documentos--Time-AirGhost)
 
@@ -153,12 +164,15 @@ Aprimorei minhas habilidades de liderança ao organizar e orientar os membros da
 A Embraer propôs um projeto de desenvolvimento de um aplicativo mobile que permitiria a visualização de FOLs (procedimentos para falhas) de forma acessível e simplificada.
 
 **Problema**
+
 A empresa parceira precisa de uma maneira ágil e eficiente para notificar os proprietários de veículos sobre procedimentos padrões em casos de possíveis falhas, a fim de evitar problemas.
 
  **Solução**
+ 
 Foi desenvolvido um aplicativo mobile que simplifica a comunicação com os motoristas: sempre que uma FOL for emitida para um veículo cadastrado no aplicativo, o motorista correspondente receberá uma notificação instantânea em seu celular.
 
-![Watch the video](https://user-images.githubusercontent.com/62018632/163511036-9d59f5da-16ba-4b91-8cce-a8a7a83cdcaf.mp4)
+[![Watch the video](https://media.discordapp.net/attachments/524268092914663424/970877530682830848/unknown.png?width=1025&height=482)](https://user-images.githubusercontent.com/62018632/163511036-9d59f5da-16ba-4b91-8cce-a8a7a83cdcaf.mp4)
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts)
 
 
@@ -194,15 +208,21 @@ Desenvolvi habilidades de liderança ao organizar e orientar a equipe em questõ
 O projeto proposto pela empresa Visiona consiste em desenvolver uma inteligência artificial capaz de reconhecer o número de vagens de uma planta a partir de uma foto.
 
 **Empresa**
+
 A Visiona Tecnologia Espacial é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais, fundada em 2012.
 
 **Problema**
+
 A empresa anteriormente apresentou um projeto que apresentava limitações, uma vez que exigia que a quantidade de vagens e grãos de soja fosse inserida manualmente, o que se mostrou inviável, já que contar manualmente cada vagem seria uma tarefa difícil e demorada para o usuário.
 
  **Solução**
+ 
 Uma inteligência artificial foi desenvolvida para realizar a contagem automática do número de vagens em uma foto e, a partir disso, estimar a quantidade de grãos presentes no processo, eliminando a necessidade de contagem manual e tornando o processo mais eficiente.
 
-![Watch the video](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)
+[![Watch the video](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)
+
+
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
 
 
