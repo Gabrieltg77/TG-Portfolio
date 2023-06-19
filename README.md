@@ -6,7 +6,8 @@ Tive meu primeiro contato com programação aos 15 anos, durante o curso técnic
 
 ## **Meus Projetos**
 
-### **Em 2020-1**
+<details>
+<summary>Em 2020-1</summary>
 O projeto desenvolvido tinha como objetivo solucionar um problema real por meio de um aplicativo para Android que fosse compatível com um hardware auxiliar, aplicado pela Fatec de São José dos Campos.
 
 **Problema**
@@ -29,8 +30,9 @@ Programação em Bloco - Sou capaz de programar em blocos com autonomia.
 
 #### **Soft Skills**
 Aprendi e utilizei a metodologia Scrum em trabalhos em equipe, de forma a dividir tarefas e acompanhar o progresso dos meus colegas, demonstrando habilidade em organização e gestão de tempo para garantir entregas no prazo.
-
-### **Em 2020-2**
+</details>
+<details>
+<summary>Em 2020-2</summary>
 Como parte do projeto proposto pela Iacit, foi desenvolvido um software em Java para gerenciar a jornada de motoristas durante entregas, com o objetivo de aumentar a eficiência e a segurança do processo.
 
 **Empresa**
@@ -50,8 +52,11 @@ Para lidar com esse problema, nossa equipe desenvolveu um software que permite c
 
 #### **Tecnologias Utilizadas**
 Java: Linguagem de programação orientada a objetos utilizada para desenvolvimento de aplicações desktop.
+
 Hibernate: Framework que permite o mapeamento objeto-relacional em aplicações Java, facilitando o acesso e manipulação de dados em bancos de dados relacionais.
+
 PostgreSQL: Sistema de gerenciamento de banco de dados relacional que utiliza SQL, amplamente utilizado em aplicações de software.
+
 Figma: Ferramenta de prototipação de interfaces gráficas que permite a criação e colaboração em tempo real entre equipes de design e desenvolvimento.
 
 #### **Contribuições Pessoais**
@@ -59,15 +64,19 @@ Utilizando o Hibernate, fiz o mapeamento dos campos do banco de dados para as cl
 
 #### **Hard Skills**
 Java, Orientação a objeto - Sei fazer com autonomia.
+
 Hibernate, ORM - Durante o projeto, tive meu primeiro contato com o Hibernate e com o ORM, e aprendi muito sobre como essas tecnologias podem facilitar o trabalho de mapeamento objeto-relacional no desenvolvimento de software. Agora, posso utilizar essas tecnologias com autonomia e eficiência. 
+
 PostgreSql - No projeto, pude aplicar meus conhecimentos prévios em PostgreSQL para trabalhar com autonomia nessa tecnologia. O exercício realizado também me permitiu consolidar esses conhecimentos e aprender novas técnicas e práticas.
+
 Wireframes - Depois de fazer um mini curso sobre o Figma, aprendi a criar wireframes com autonomia utilizando essa ferramenta. Mesmo sendo meu primeiro contato com a tecnologia, consegui aproveitar bem o curso e aprendi bastante
 
 
 #### **Soft Skills**
 Durante este projeto, desenvolvi e aprimorei diversas habilidades comportamentais, tais como organização de projetos, gestão de prazos, atendimento ao cliente, divisão de tarefas, colaboração com os colegas e tomada de decisões. Estas habilidades foram essenciais para o sucesso do projeto e me permitiram trabalhar de forma produtiva e eficiente.
-
-### **Em 2021-1**
+</details>
+<details>
+<summary>Em 2021-1</summary>
 A empresa Ness propôs um projeto de grande relevância em tempos de pandemia: a criação de uma plataforma de ensino (LMS) para auxiliar na aplicação de cursos e treinamentos EaD.
 
 **Empresa**
@@ -95,11 +104,17 @@ Devido à complexidade do projeto, foi necessário delimitar o escopo e as funci
 
 #### **Tecnologias Utilizadas**
 Java: linguagem de programação orientada a objetos utilizada para desenvolvimento do back-end do projeto.
+
 React: framework JavaScript utilizado para o desenvolvimento do front-end do projeto.
+
 CSS: linguagem de estilos utilizada para a formatação e apresentação visual das páginas do front-end.
+
 PostgreSQL: sistema de gerenciamento de banco de dados relacional utilizado no armazenamento dos dados do projeto.
+
 Figma: ferramenta de design de interface do usuário utilizada para criar e prototipar as telas do projeto.
+
 Spring Boot: framework Java utilizado para a construção e inicialização do projeto back-end.
+
 Github: plataforma de hospedagem e versionamento de código-fonte utilizando o sistema de controle de versão Git.
 
 #### **Contribuições Pessoais**
@@ -107,16 +122,22 @@ No projeto, fui responsável por desenvolver a tela de login e a página princip
 
 #### **Hard Skills**
 Java, Orientação a objeto - Sei fazer com autonomia.
+
 PostgreSql - Sei fazer com autonomia.
+
 Wireframes - Sei fazer com autonomia.
+
 React: Possuo autonomia para desenvolver utilizando o framework, mesmo sendo meu primeiro contato com o mesmo. Durante o processo, realizei diversas atividades e adquiri muito conhecimento.
+
 Github: Tenho conhecimento autônomo sobre o sistema de versionamento, incluindo o uso de branchs para agilizar o trabalho em equipe em diferentes partes do código de maneira eficiente. Foi a minha primeira experiência com versionamento em equipe, utilizando a ferramenta Github em sprints, o que possibilitou a colaboração de várias pessoas simultaneamente no projeto de forma eficiente.
 
 
 #### **Soft Skills**
 Durante o projeto, pude demonstrar minhas habilidades em organização e versionamento do projeto, cumprindo prazos e estabelecendo uma boa comunicação com o cliente. Além disso, fui capaz de dividir tarefas e oferecer ajuda aos parceiros quando necessário, tomando decisões importantes em momentos críticos.
 
-### **Em 2021-2**
+</details>
+<details>
+<summary>Em 2021-2 </summary>
 O projeto proposto pela empresa Embraer consiste em desenvolver um sistema de gerenciamento de documentos que abrange desde a integridade das informações até a geração de novos documentos.
 
 **Empresa**
@@ -136,16 +157,17 @@ Foi desenvolvida uma plataforma web que permitia a importação do arquivo Excel
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Personaliza-o-de-Documentos--Time-AirGhost)
 
 #### **Tecnologias Utilizadas** 💻
-- _Languages_<br>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><br>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br>
-- _FrameWorks_<br>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
-- _Database_<br>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
-- _Prototype Plataform_<br>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br>
+JavaScript: linguagem de programação orientada a objetos utilizada para desenvolvimento do back-end e front-end do projeto.
+
+React: framework JavaScript utilizado para o desenvolvimento do front-end do projeto.
+
+CSS: linguagem de estilos utilizada para a formatação e apresentação visual das páginas do front-end.
+
+PostgreSQL: sistema de gerenciamento de banco de dados relacional utilizado no armazenamento dos dados do projeto.
+
+Figma: ferramenta de design de interface do usuário utilizada para criar e prototipar as telas do projeto.
+
+Github: plataforma de hospedagem e versionamento de código-fonte utilizando o sistema de controle de versão Git.
 
 #### **Contribuições Pessoais**
 Eu realizei a estruturação das pastas no front-end e liderei a equipe de desenvolvedores, utilizando principalmente ReactJS e algumas vezes NodeJS para concluir as tarefas. Além disso, assumi o papel de Product Owner, atuando como intermediário entre a equipe e o cliente.
@@ -160,7 +182,9 @@ Wireframes - Sei fazer com autonomia.
 #### **Soft Skills**
 Aprimorei minhas habilidades de liderança ao organizar e orientar os membros da equipe em aspectos técnicos e estruturais do projeto. Tive a oportunidade de assumir o papel de P.O e lidar diretamente com o cliente, o que me permitiu desenvolver minhas habilidades de comunicação e visualização do produto final.
 
-### **Em 2022-1**
+</details>
+<details>
+<summary>Em 2022-1</summary>
 A Embraer propôs um projeto de desenvolvimento de um aplicativo mobile que permitiria a visualização de FOLs (procedimentos para falhas) de forma acessível e simplificada.
 
 **Problema**
@@ -173,22 +197,26 @@ Foi desenvolvido um aplicativo mobile que simplifica a comunicação com os moto
 
 [![Watch the video](https://media.discordapp.net/attachments/524268092914663424/970877530682830848/unknown.png?width=1025&height=482)](https://user-images.githubusercontent.com/62018632/163511036-9d59f5da-16ba-4b91-8cce-a8a7a83cdcaf.mp4)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts)
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
 
 #### **Tecnologias Utilizadas** 💻
 
-[![forthebadge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
+JavaScript: linguagem de programação orientada a objetos utilizada para desenvolvimento do back-end e front-end do projeto.
 
-[![forthebadge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+React: framework JavaScript utilizado para o desenvolvimento do front-end do projeto.
 
-[![forthebadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
+React Native: framework JavaScript que renderiza uma applicação nativamente para iOS e Android, utilizado para o desenvolvimento do front-end do aplicativo mobile.
 
-[![forthebadge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+CSS: linguagem de estilos utilizada para a formatação e apresentação visual das páginas do front-end.
 
-[![forthebadge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br)
+PostgreSQL: sistema de gerenciamento de banco de dados relacional utilizado no armazenamento dos dados do projeto.
 
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+Figma: ferramenta de design de interface do usuário utilizada para criar e prototipar as telas do projeto.
+
+Github: plataforma de hospedagem e versionamento de código-fonte utilizando o sistema de controle de versão Git.
+
+MongoDB: Gerenciador de banco de dados não relacional, utilizado no banco de dados da aplicação.
 
 #### **Contribuições Pessoais**
 Realizei a integração entre o back-end e o front-end em React Native, implementando a tela de login, pesquisa por palavra-chave, gráfico de horas visualizadas no React Web, além de auxiliar em outras funcionalidades como a visualização de PDF e notificação no celular.
@@ -204,7 +232,9 @@ Wireframes - Sou capaz de criar wireframes com autonomia.
 #### **Soft Skills**
 Desenvolvi habilidades de liderança ao organizar e orientar a equipe em questões técnicas e estruturais do projeto, aplicando metodologias ágeis para otimizar o processo de desenvolvimento e garantir que as entregas fossem realizadas dentro dos prazos estipulados.
 
-### **Em 2022-2**
+</details>
+<details>
+<summary>Em 2022-2</summary>
 O projeto proposto pela empresa Visiona consiste em desenvolver uma inteligência artificial capaz de reconhecer o número de vagens de uma planta a partir de uma foto.
 
 **Empresa**
@@ -222,21 +252,20 @@ Uma inteligência artificial foi desenvolvida para realizar a contagem automáti
 [![Watch the video](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)
 
 
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts)
 
 
 #### **Tecnologias Utilizadas** 💻
 
-[![forthebadge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
+JavaScript: linguagem de programação orientada a objetos utilizada para desenvolvimento do back-end e front-end do projeto.
 
-[![forthebadge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+React Native: framework JavaScript que renderiza uma applicação nativamente para iOS e Android, utilizado para o desenvolvimento do front-end do aplicativo mobile.
 
-[![forthebadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
+Detectron2: Biblioteca de Python usada para construção, treinamento e a modelagem da inteligência artificial.
 
-[![forthebadge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+Python: Linguagem de programação de alto nível, utilizada na contrução da API da IA.
 
-<img alt="Detectron2" src="https://camo.githubusercontent.com/c17b7cba75b028fa64fce5883eeb67afdc0c1961b169899fb09b15ef53d0f12d/68747470733a2f2f646c2e666261697075626c696366696c65732e636f6d2f646574656374726f6e322f446574656374726f6e322d4c6f676f2d486f727a2e706e67" width="80"/><br>
+Github: plataforma de hospedagem e versionamento de código-fonte utilizando o sistema de controle de versão Git.
 
 #### **Contribuições Pessoais**
 Eu integrei a inteligência artificial desenvolvida ao projeto antigo, além de contribuir com melhorias nas telas e na própria IA. Também auxiliei no processo de treinamento da IA, realizando marcações adequadas para um melhor desempenho da mesma.
@@ -249,7 +278,7 @@ Node, typescript - Sei fazer.
 
 #### **Soft Skills**
 Desenvolvi habilidades de liderança ao organizar e orientar a equipe em questões técnicas e estruturais do projeto, aplicando metodologias ágeis para otimizar o processo de desenvolvimento e garantir que as entregas fossem realizadas dentro dos prazos estipulados.
-
+</details>
 
 ### **Meus Principais Conhecimentos**
 Tenho experiência no desenvolvimento web utilizando diversas ferramentas e tecnologias como React, React-native, Java web, CSS, Bootstrap e JavaScript. Além disso, também tenho conhecimento no desenvolvimento de backend com linguagens como Java, C#, TypeScript, Node.js, Ruby on Rails, Elixir, Nest.js, PHP e Python, e sou familiarizado com os paradigmas de orientação a objetos e funcional.
@@ -260,5 +289,5 @@ No que diz respeito a infraestrutura, sou familiarizado com o uso de AWS e Kuber
 
 
 ## **Contatos**
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrieltg7)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrieltg77)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teixeira-2238311a3/)
